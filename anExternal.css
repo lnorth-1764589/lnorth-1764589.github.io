@@ -13,7 +13,7 @@
 	font-weight: bold;
 }
 
-#rounded{
+#corner{
 	border-radius: 15px 50px 30px;
 	background: #73AD21;
 	padding: 20px; 
@@ -21,13 +21,13 @@
 	height: 150px; 
 }
 
-#text{
+#para{
 	width: 500px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 10px;
 	border:solid 8px black;
-	float: righ;
+	float: right;
 	text-align: center;
 	background-color: red;
 	
